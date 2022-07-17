@@ -26,6 +26,16 @@ We will spend some time reviewing the concepts from the prework. We will also di
 - Lunch Break / Partner Power Hour (optional this week only!)
 - Introduction to Code Challenges
   - Review Loops & Iteration
+
+  * There are 5 different loops that we use in JavaScript
+  - for loop: loops through a block of code a number of times
+  - while loop: loops thorugh a block of code while a specified condition is true
+  - do while: also loops through a block of code while a specifies condition is true
+  - for of: loops through the values of an iterable object
+  - for in: loops through the properties of an object
+
+psuedo-code: 
+
   - Introduction of Code Challenge 01: `array.forEach`
     - Repl.it Demo: <https://replit.com/@HexxKing1/302n17-Code-Challenges-arrayforEach#index.js>
 - Afternoon Lecture:
